@@ -1,2 +1,4 @@
 # Neovim-Dotfiles
 All the plugins I used in neovim . This neovim setup use a NVchad configs 
+
+![screenshot](screenshot/ss123jj.png)
